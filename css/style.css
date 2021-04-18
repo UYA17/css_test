@@ -8,7 +8,6 @@
 .menu h1 {
  font-size: 25px;
 }
-
 .link {
   display: inline-block;
   font-weight: bold;
@@ -16,32 +15,26 @@
 }
 
 
-
-
-
 .image {
   width: 50%;
   height: 450px;
   background:url(../img/firstview.jpeg) no-repeat;
   background-size: contain;
-
   margin-left: 50%;
   position: relative;
-  top: 100px;
-  
+  top: 100px;  
 }
 
 .fit {
   margin-top: -50px;
 }
-
 h2 {
   font-size: 60px;
   font-weight: 500;
 }
 .under {
   background-color:  #0d3170;
-  width: 900px;
+  width: 75%;
   height: 150px;
 }
 
