@@ -20,7 +20,7 @@
 
 
 .image {
-  width: 650px;
+  width: 50%;
   height: 450px;
   background:url(../img/firstview.jpeg) no-repeat;
   background-size: contain;
@@ -44,3 +44,4 @@ h2 {
   width: 900px;
   height: 150px;
 }
+
