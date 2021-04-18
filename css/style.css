@@ -18,22 +18,21 @@
 
 
 
-.main {
-  
-}
-.image {
-  width: 700px;
-  height: 400px;
-  background:url(../img/firstview.jpeg) no-repeat right;
-  margin-left: 550px;
-  margin-top: 100px;
-  
-  
-}
 
+.image {
+  width: 650px;
+  height: 450px;
+  background:url(../img/firstview.jpeg) no-repeat;
+  background-size: contain;
+
+  margin-left: 650px;
+  position: relative;
+  top: 100px;
+  
+}
 
 .fit {
-  margin-top: -150px;
+  margin-top: -50px;
 }
 
 h2 {
@@ -43,5 +42,5 @@ h2 {
 .under {
   background-color:  #0d3170;
   width: 900px;
-  height: 180px;
+  height: 150px;
 }
