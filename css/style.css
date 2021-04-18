@@ -1,34 +1,47 @@
 .menu {
-  display: inline-flex;
+  width: auto;
+  display: flex;
   justify-content: space-between;
+  color: #25467e;
+  margin: 10px 10px 0 10px;
 }
 .menu h1 {
- font-size: 30px;
+ font-size: 25px;
 }
 
 .link {
   display: inline-block;
-
+  font-weight: bold;
+  margin: 10px;
 }
+
+
+
+
 .main {
-  text-align: right;
+  
 }
 .image {
   width: 700px;
   height: 400px;
-  background:url(../img/firstview.jpeg) no-repeat ;
-  text-align: right;
-
-}
-img{
+  background:url(../img/firstview.jpeg) no-repeat right;
+  margin-left: 550px;
+  margin-top: 100px;
+  
   
 }
+
+
+.fit {
+  margin-top: -150px;
+}
+
 h2 {
   font-size: 60px;
   font-weight: 500;
 }
 .under {
-  background-color: blue;
+  background-color:  #0d3170;
   width: 900px;
-  height: 158px;
+  height: 180px;
 }
